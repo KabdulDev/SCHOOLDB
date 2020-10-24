@@ -1,9 +1,9 @@
 /*
  * 
  * 
- * Youtube Interactive Run Through -
- * Youtube Architecture Review and BreakDown -  
- * GitHub Link - 
+ * Youtube Interactive Run Through - https://youtu.be/08Xd8DkeYac
+ * Youtube Architecture Review and BreakDown - https://youtu.be/18qStb2RIMs
+ * GitHub Link - https://github.com/KabdulDev/SCHOOLDB
  * 
  */
 
